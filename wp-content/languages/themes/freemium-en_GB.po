@@ -1,0 +1,692 @@
+# Translation of Themes - Freemium in English (UK)
+# This file is distributed under the same license as the Themes - Freemium package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-02 18:44:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Freemium\n"
+
+#. Description of the plugin/theme
+msgid "Freemium is simple, lightweight and faster WordPress blog Theme. It is a mobile responsive theme based on Twitter bootstrap framework."
+msgstr "Freemium is simple, lightweight and faster WordPress blog Theme. It is a mobile responsive theme based on Twitter bootstrap framework."
+
+#. Theme Name of the plugin/theme
+msgid "Freemium"
+msgstr "Freemium"
+
+#: footer.php:63
+msgid "Freemium WordPress Theme."
+msgstr "Freemium WordPress Theme."
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#. Template Name of the plugin/theme
+msgid "Full Page"
+msgstr "Full Page"
+
+#: theme-option/fasterthemes.php:390
+msgid "Save Options"
+msgstr "Save Options"
+
+#: theme-option/fasterthemes.php:380
+msgid "Ranking Title-"
+msgstr "Ranking Title-"
+
+#: theme-option/fasterthemes.php:372
+msgid "Ranking Number-"
+msgstr "Ranking Number-"
+
+#: theme-option/fasterthemes.php:367
+msgid "Ranking"
+msgstr "Ranking"
+
+#: theme-option/fasterthemes.php:364
+msgid "Ranking Number Settings"
+msgstr "Ranking Number Settings"
+
+#: theme-option/fasterthemes.php:349
+msgid "Image"
+msgstr "Image"
+
+#: theme-option/fasterthemes.php:347
+msgid "Area Below Responsive"
+msgstr "Area Below Responsive"
+
+#: theme-option/fasterthemes.php:307
+msgid "Select Category"
+msgstr "Select Category"
+
+#: theme-option/fasterthemes.php:300
+msgid "Recent Post Settings"
+msgstr "Recent Post Settings"
+
+#: theme-option/fasterthemes.php:293
+msgid "Section Description"
+msgstr "Section Description"
+
+#: theme-option/fasterthemes.php:285
+msgid "Section Title"
+msgstr "Section Title"
+
+#: theme-option/fasterthemes.php:270
+msgid "Section "
+msgstr "Section "
+
+#: theme-option/fasterthemes.php:267
+msgid "Section Settings"
+msgstr "Section Settings"
+
+#: theme-option/fasterthemes.php:257
+msgid "Text"
+msgstr "Text"
+
+#: theme-option/fasterthemes.php:248
+msgid "Title"
+msgstr "Title"
+
+#: theme-option/fasterthemes.php:239
+msgid "Link"
+msgstr "Link"
+
+#: theme-option/fasterthemes.php:224 theme-option/fasterthemes.php:239
+#: theme-option/fasterthemes.php:248 theme-option/fasterthemes.php:257
+msgid "Slide"
+msgstr "Slide"
+
+#: theme-option/fasterthemes.php:220
+msgid "Home page slider images"
+msgstr "Home page slider images"
+
+#: theme-option/fasterthemes.php:212
+msgid "Enter web site for your site , you would like to display in the Footer."
+msgstr "Enter website for your site, you would like to display in the Footer."
+
+#: theme-option/fasterthemes.php:207
+msgid "Web"
+msgstr "Web"
+
+#: theme-option/fasterthemes.php:203
+msgid "Enter fax number for your site , you would like to display in the Footer."
+msgstr "Enter fax number for your site, you would like to display in the Footer."
+
+#: theme-option/fasterthemes.php:198
+msgid "Fax"
+msgstr "Fax"
+
+#: theme-option/fasterthemes.php:194
+msgid "Enter phone number for your site , you would like to display in the Footer."
+msgstr "Enter phone number for your site, you would like to display in the Footer."
+
+#: theme-option/fasterthemes.php:189
+msgid "Phone"
+msgstr "Phone"
+
+#: theme-option/fasterthemes.php:185
+msgid "Enter e-mail id for your site , you would like to display in the Footer."
+msgstr "Enter e-mail id for your site, you would like to display in the Footer."
+
+#: theme-option/fasterthemes.php:180
+msgid "Email"
+msgstr "Email"
+
+#: theme-option/fasterthemes.php:176
+msgid "Enter address for your site , you would like to display in the Home Page."
+msgstr "Enter address for your site, you would like to display in the Home Page."
+
+#: theme-option/fasterthemes.php:171
+msgid "Address"
+msgstr "Address"
+
+#: theme-option/fasterthemes.php:167
+msgid "Some text regarding copyright of your site, you would like to display in the footer."
+msgstr "Some text regarding the copyright of your site, you would like to display in the footer."
+
+#: theme-option/fasterthemes.php:162
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: theme-option/fasterthemes.php:152
+msgid "Google+  profile or page URL i.e. "
+msgstr "Google+  profile or page URL i.e. "
+
+#: theme-option/fasterthemes.php:146
+msgid "Google+"
+msgstr "Google+"
+
+#: theme-option/fasterthemes.php:142
+msgid "Linkedin profile or page URL i.e. "
+msgstr "Linkedin profile or page URL i.e. "
+
+#: theme-option/fasterthemes.php:137
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: theme-option/fasterthemes.php:133
+msgid "Twitter profile or page URL i.e."
+msgstr "Twitter profile or page URL i.e."
+
+#: theme-option/fasterthemes.php:128
+msgid "Twitter"
+msgstr "Twitter"
+
+#: theme-option/fasterthemes.php:124
+msgid "Facebook profile or page URL i.e. "
+msgstr "Facebook profile or page URL i.e. "
+
+#: theme-option/fasterthemes.php:119
+msgid "Facebook"
+msgstr "Facebook"
+
+#: theme-option/fasterthemes.php:111
+msgid "Size of fevicon should be exactly 32x32px for best results."
+msgstr "Size of favicon should be exactly 32x32px for best results."
+
+#: theme-option/fasterthemes.php:102
+msgid "Favicon"
+msgstr "Favicon"
+
+#: theme-option/fasterthemes.php:98
+msgid "Size of logo should be exactly 360x125px for best results. Leave blank to use text heading."
+msgstr "Size of logo should be exactly 360x125px for best results. Leave blank to use text heading."
+
+#: theme-option/fasterthemes.php:93 theme-option/fasterthemes.php:106
+#: theme-option/fasterthemes.php:229 theme-option/fasterthemes.php:274
+#: theme-option/fasterthemes.php:353
+msgid "Upload"
+msgstr "Upload"
+
+#: theme-option/fasterthemes.php:92 theme-option/fasterthemes.php:105
+#: theme-option/fasterthemes.php:228 theme-option/fasterthemes.php:273
+#: theme-option/fasterthemes.php:352
+msgid "No file chosen"
+msgstr "No file chosen"
+
+#: theme-option/fasterthemes.php:89
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: theme-option/fasterthemes.php:75
+msgid "Home Page Settings"
+msgstr "Home Page Settings"
+
+#: theme-option/fasterthemes.php:74 theme-option/fasterthemes.php:160
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: theme-option/fasterthemes.php:73 theme-option/fasterthemes.php:117
+msgid "Social Settings"
+msgstr "Social Settings"
+
+#: theme-option/fasterthemes.php:72 theme-option/fasterthemes.php:87
+msgid "Basic Settings"
+msgstr "Basic Settings"
+
+#: theme-option/fasterthemes.php:68
+msgid "Options saved"
+msgstr "Options saved"
+
+#: theme-option/fasterthemes.php:49
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: theme-option/fasterthemes.php:48 theme-option/fasterthemes.php:66
+msgid "FasterThemes Options"
+msgstr "FasterThemes Options"
+
+#: tag.php:11
+msgid "Tags"
+msgstr "Tags"
+
+#: single.php:26
+msgid "Pages:"
+msgstr "Pages:"
+
+#: search.php:39
+msgid "No Results Found"
+msgstr "No Results Found"
+
+#: search.php:11
+msgid "Search Results for"
+msgstr "Search Results for"
+
+#: header.php:43
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: functions.php:279
+msgid "Footer Area 3"
+msgstr "Footer Area 3"
+
+#: functions.php:270
+msgid "Footer Area 2"
+msgstr "Footer Area 2"
+
+#: functions.php:261
+msgid "Footer Area 1"
+msgstr "Footer Area 1"
+
+#: functions.php:252
+msgid "Main Sidebar"
+msgstr "Main Sidebar"
+
+#: functions.php:200
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:194
+msgid "Post author "
+msgstr "Post author"
+
+#: functions.php:176
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:174
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:132
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:96
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:76
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:29
+msgid "Main menu"
+msgstr "Main menu"
+
+#: functions/tgm-plugins.php:44
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: functions/tgm-plugins.php:31
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: functions/tgm-plugins.php:11
+msgid "Faster Pagination"
+msgstr "Faster Pagination"
+
+#: functions/freemium-custom-widget.php:109
+msgid "Posts Comments Tags"
+msgstr "Posts Comments Tags"
+
+#: functions/freemium-custom-widget.php:105
+msgid "post_comment_tag"
+msgstr "post_comment_tag"
+
+#: functions/freemium-custom-widget.php:29
+msgid "TAGS"
+msgstr "Tags"
+
+#: functions/freemium-custom-widget.php:28
+msgid "COMMENTS"
+msgstr "Comments"
+
+#: functions/freemium-custom-widget.php:27
+msgid "POSTS"
+msgstr "Posts"
+
+#: functions/freemium-custom-widget.php:12
+#: functions/freemium-custom-widget.php:105
+msgid "Posts Comments and Tags"
+msgstr "Posts Comments and Tags"
+
+#: functions/freemium-custom-widget.php:8
+msgid "A widget for Posts, Comments and Tags."
+msgstr "A widget for Posts, Comments and Tags."
+
+#: functions/class-tgm-plugin-activation.php:1073
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:1072
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: functions/class-tgm-plugin-activation.php:1071
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: functions/class-tgm-plugin-activation.php:1070
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: functions/class-tgm-plugin-activation.php:1069
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: functions/class-tgm-plugin-activation.php:1068
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: functions/class-tgm-plugin-activation.php:1064
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:1063
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: functions/class-tgm-plugin-activation.php:1062
+#: functions/class-tgm-plugin-activation.php:1071
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: functions/class-tgm-plugin-activation.php:1062
+#: functions/class-tgm-plugin-activation.php:1071
+msgid "Show Details"
+msgstr "Show Details"
+
+#: functions/class-tgm-plugin-activation.php:1062
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: functions/class-tgm-plugin-activation.php:1061
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: functions/class-tgm-plugin-activation.php:1021
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: functions/class-tgm-plugin-activation.php:1017
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: functions/class-tgm-plugin-activation.php:1016
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: functions/class-tgm-plugin-activation.php:1015
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1014
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1013
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1012
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: functions/class-tgm-plugin-activation.php:821
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: functions/class-tgm-plugin-activation.php:740
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: functions/class-tgm-plugin-activation.php:668
+msgid "Status"
+msgstr "Status"
+
+#: functions/class-tgm-plugin-activation.php:667
+msgid "Type"
+msgstr "Type"
+
+#: functions/class-tgm-plugin-activation.php:666
+msgid "Source"
+msgstr "Source"
+
+#: functions/class-tgm-plugin-activation.php:665
+msgid "Plugin"
+msgstr "Plugin"
+
+#: functions/class-tgm-plugin-activation.php:657
+msgid "No plugins to install or activate"
+msgstr "No plugins to install or activate"
+
+#: functions/class-tgm-plugin-activation.php:635
+#: functions/class-tgm-plugin-activation.php:675
+msgid "Activate"
+msgstr "Activate"
+
+#: functions/class-tgm-plugin-activation.php:617
+#: functions/class-tgm-plugin-activation.php:674
+msgid "Install"
+msgstr "Install"
+
+#: functions/class-tgm-plugin-activation.php:571
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: functions/class-tgm-plugin-activation.php:569
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: functions/class-tgm-plugin-activation.php:567
+msgid "Recommended"
+msgstr "RECOMMENDED"
+
+#: functions/class-tgm-plugin-activation.php:567
+msgid "Required"
+msgstr "REQUIRED"
+
+#: functions/class-tgm-plugin-activation.php:565
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: functions/class-tgm-plugin-activation.php:563
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: functions/class-tgm-plugin-activation.php:560
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: functions/class-tgm-plugin-activation.php:258
+#: functions/class-tgm-plugin-activation.php:657
+#: functions/class-tgm-plugin-activation.php:1128
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: functions/class-tgm-plugin-activation.php:71
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: functions/class-tgm-plugin-activation.php:70
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: functions/class-tgm-plugin-activation.php:69
+#: functions/class-tgm-plugin-activation.php:838
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: functions/class-tgm-plugin-activation.php:68
+#: functions/class-tgm-plugin-activation.php:1022 functions/tgm-plugins.php:43
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: functions/class-tgm-plugin-activation.php:67
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: functions/class-tgm-plugin-activation.php:66 functions/tgm-plugins.php:42
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: functions/class-tgm-plugin-activation.php:65 functions/tgm-plugins.php:41
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: functions/class-tgm-plugin-activation.php:64 functions/tgm-plugins.php:40
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: functions/class-tgm-plugin-activation.php:63 functions/tgm-plugins.php:39
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgstr[1] "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+
+#: functions/class-tgm-plugin-activation.php:62 functions/tgm-plugins.php:38
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:61 functions/tgm-plugins.php:37
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr[1] "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+
+#: functions/class-tgm-plugin-activation.php:60 functions/tgm-plugins.php:36
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:59 functions/tgm-plugins.php:35
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:58 functions/tgm-plugins.php:34
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr[1] "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+
+#: functions/class-tgm-plugin-activation.php:57 functions/tgm-plugins.php:33
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:56 functions/tgm-plugins.php:32
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:55
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: functions/class-tgm-plugin-activation.php:54 functions/tgm-plugins.php:30
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: functions/class-tgm-plugin-activation.php:53 functions/tgm-plugins.php:29
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: functions/class-tgm-plugin-activation.php:52 functions/tgm-plugins.php:28
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: footer.php:63
+msgid "Powered by "
+msgstr "Powered by"
+
+#: footer.php:34
+msgid "Web :"
+msgstr "Web :"
+
+#: footer.php:31
+msgid "Email :"
+msgstr "Email :"
+
+#: footer.php:28
+msgid "Fax : "
+msgstr "Fax : "
+
+#: footer.php:25
+msgid "Phone :"
+msgstr "Phone :"
+
+#: footer.php:20
+msgid "Contact Info"
+msgstr "Contact Info"
+
+#: comments.php:24
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: category.php:14 theme-option/fasterthemes.php:303
+msgid "Category"
+msgstr "Category"
+
+#: author.php:11
+msgid "All posts by "
+msgstr "All posts by "
+
+#: author.php:11
+msgid "Author "
+msgstr "Author"
+
+#: archive.php:32 author.php:32 category.php:35 index.php:28 search.php:32
+#: tag.php:32
+msgid "CONTINUE READING"
+msgstr "Continue reading "
+
+#: archive.php:11
+msgid "Archives"
+msgstr "Archives"
+
+#: 404.php:21
+msgid "Search"
+msgstr "Search"
+
+#: 404.php:19
+msgid "Search.."
+msgstr "Search.."
+
+#: 404.php:14
+msgid "Whatever you were looking for was not found, but maybe try looking again or search using the form below."
+msgstr "Whatever you were looking for was not found, but maybe try looking again or search using the form below."
+
+#: 404.php:12
+msgid "This is embarrassing. We could not find what you were looking for."
+msgstr "This is embarrassing. We could not find what you were looking for."
+
+#: 404.php:11
+msgid "Epic 404 - Article Not Found"
+msgstr "Epic 404 - Article Not Found"
+
+#. Author URI of the plugin/theme
+msgid "http://fasterthemes.com"
+msgstr "http://fasterthemes.com"
+
+#. Author of the plugin/theme
+msgid "FasterThemes"
+msgstr "FasterThemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://fasterthemes.com/wordpress-themes/Freemium"
+msgstr "http://fasterthemes.com/wordpress-themes/Freemium"

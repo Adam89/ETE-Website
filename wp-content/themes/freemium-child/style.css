@@ -1,0 +1,33 @@
+/*
+
+Theme Name: Freemium-Child
+
+Theme URI: http://fasterthemes.com/wordpress-themes/Freemium
+
+Description: Freemium is simple, lightweight and faster WordPress blog Theme. It is a mobile responsive theme based on Twitter bootstrap framework.
+
+Version: 2.0.8
+
+Author: FasterThemes
+
+Author URI: http://fasterthemes.com
+
+Tags: right-sidebar, left-sidebar, one-column, two-columns, full-width-template,theme-options, custom-background, custom-header, custom-menu, featured-images, post-formats, sticky-post, translation-ready
+
+License: GNU General Public License v3 or later
+
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Text Domain: freemium
+
+Template: freemium-child
+
+Domain Path: 
+
+*/
+
+@import url("../freemium/css/bootstrap.css");
+@import url("../freemium/css/custom.css");
+@import url("../freemium/css/editor-style.css");
+@import url("../freemium/css/font-awesome.min.css");
+@import url("../freemium/style.css");
